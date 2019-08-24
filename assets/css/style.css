@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background: url(../images/beastie_boys3.jpg);
+}
+.container {
+    text-align: center;
+    background: white;
+}
+.btn {
+    font-size: 48px;
+}
+h1 {
+    font-size: 48px;
+}
